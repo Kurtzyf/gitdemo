@@ -1,1 +1,1 @@
-it s a test text
+Creating a new branch is quick & simple.
