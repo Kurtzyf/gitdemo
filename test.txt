@@ -2,3 +2,5 @@
 it s a test text
 
 a branch named dev
+
+a bug has been fixed
