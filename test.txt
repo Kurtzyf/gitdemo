@@ -3,3 +3,5 @@ it s a test text
 a branch named dev
 
 coding sth...
+
+a bug has been fixed
